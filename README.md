@@ -3,7 +3,9 @@
 ## Personal website: [ethanyoo.com](https://ethanyoo.com/)
 
 * ["Now" page](https://ethanyoo.com/now/)
+* [Public CV](https://ethanyoo.com/cv/)
 * [Recommended free software](https://ethanyoo.com/resources/#software)
+	* [All starred repositories](https://github.com/ethyoo?tab=stars) (organized into GitHub Lists)
 
 ## Education
 
